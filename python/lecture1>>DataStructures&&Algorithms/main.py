@@ -16,7 +16,7 @@ def find_nod(a, b):
 def main():
     a = int(input('Enter value of a: '))
     b = int(input('Enter value of b: '))
-    find_nod(a, b)
+    print(find_nod(a, b))
 
 
 # Press the green button in the gutter to run the script.
